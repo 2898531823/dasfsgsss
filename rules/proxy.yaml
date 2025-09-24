@@ -6,7 +6,7 @@ payload:
 
 #lidarr
   - DOMAIN,api.lidarr.audio
-  - DOMAIN,lidarr.server.com
+  - DOMAIN,lidarr.servarr.com
   - DOMAIN-SUFFIX,api.ffaoa.com
 
 
