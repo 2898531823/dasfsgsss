@@ -1,0 +1,9 @@
+# 自定义强制直连列表
+# 包含：CDN, Clash Dashboard 等
+payload:
+  - DOMAIN-SUFFIX,jsdelivr.net
+  - DOMAIN,clash.razord.top
+  - DOMAIN,yacd.haishan.me
+
+#自建节点订阅
+  - DOMAIN,sublink.wsyde.de
