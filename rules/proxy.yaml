@@ -1,0 +1,15 @@
+# 自定义强制代理列表
+# 包含：GitHub Raw 内容, PT站, Lidarr API 等
+payload:
+  - DOMAIN-SUFFIX,githubusercontent.com
+
+
+#lidarr
+  - DOMAIN,api.lidarr.audio
+  - DOMAIN,lidarr.server.com
+  - DOMAIN-SUFFIX,api.ffaoa.com
+
+
+#pt相关
+  - DOMAIN-SUFFIX,pttime.org
+  - DOMAIN-SUFFIX,nicept.net
